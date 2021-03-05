@@ -1,0 +1,13 @@
+package com.plproject.plproject;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PlprojectApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(PlprojectApplication.class, args);
+    }
+
+}
